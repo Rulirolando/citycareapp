@@ -1,4 +1,4 @@
-APP_URL=<url_aplikasi>
+APP_URL=https://rulirolando.github.io/citycareapp
 MAP_SERVICE_API_KEY=<api_key>
 API key Map Service yang digunakan:
 APTjEvlnKbRdOwOsBnwQ
